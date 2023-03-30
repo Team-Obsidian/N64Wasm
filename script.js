@@ -54,7 +54,7 @@ class MyClass {
             swapSticks: false,
             mouseMode: false,
             useZasCMobile: false, //used for starcraft mobile
-            showFPS: true,
+            showFPS: false,
             invert2P: false,
             invert3P: false,
             invert4P: false,
